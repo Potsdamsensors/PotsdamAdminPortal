@@ -1,0 +1,11 @@
+span.error {
+  color: #9F3A38;
+  text-align: left;
+  float: left;
+}
+
+
+.hide {
+	display: none !important;
+}
+
